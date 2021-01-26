@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Holly Bossart"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Holly Bossart's personal website"
+description = "Holly Bossart"
 
 ############################
 ## Site Features
@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", city = "Pittsburgh", region = "PA", postcode = "15213", country = "United States", country_code = "US"}
+address = {street = "Department of Statistics and Data Science", city = "Pittsburgh", region = "PA", postcode = "15213", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -113,7 +113,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "I'm on Twitter!", link = "https://twitter.com/hollybossart"},
+  # {icon = "twitter", icon_pack = "fab", name = "I'm on Twitter!", link = "https://twitter.com/hollybossart"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
