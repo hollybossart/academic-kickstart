@@ -30,9 +30,13 @@ education:
   - course: PhD in Statistics and Public Policy
     institution: Carnegie Mellon University
     year: 2020 - Current
-  - course: MEng in Artificial Intelligence
+  - course: BS, Applied Mathematics, Statistics Emphasis
     institution: Boise State University
     year: 2015-2020
+  - course: BA, Economics, Quantitative Emphasis
+    institution: Boise State University
+    year: 2015-2020
+   
 
 
 # Social/Academic Networking
