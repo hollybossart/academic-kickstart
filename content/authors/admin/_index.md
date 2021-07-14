@@ -18,12 +18,13 @@ organizations:
   url: "https://www.stat.cmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a first year joint PhD student in the department of Statistics and Data Science, and the Heinz Public Policy school.
+bio: I'm a second year joint PhD student in the department of Statistics and Data Science, and the Heinz Public Policy school.
 
 interests:
+- Fairness, Ethics, Accountability and Transparency in ML
 - Causal Inference
-- Observational Data
-- Nonparametric Methods
+- Observational Data and Survey Methods
+- Missing and Censored Data
 
 education:
   courses:
@@ -75,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student at Carnegie Mellon University in the departments of Statistics and Data Science, and Public Policy. 
+I'm a second year joint PhD student in the department of Statistics and Data Science, and the Heinz Public Policy school. I'm currently working with Dr. Zachary Branson and Dr. Edward H. Kennedy on a project using nonparametric causal inference tools to study incarceration's impact on depressive symptoms. At Boise State University, I received a HERC fellowship to work under Dr. Jaechoul Lee in the Department of Mathematics on equivalent sample size calibration for long memory time series data. 
